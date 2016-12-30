@@ -1,0 +1,74 @@
+html{
+	background-color:#C0C0C0;
+	margin-left:20%;
+    margin-right:40%;
+    margin-top:10px;
+    margin_botton:10px;
+}
+#cuerpo {
+    height:100%;
+    width: 100%;
+    border: 1% solid blue;
+    
+    color:black;
+    background-color:#FFFFFF;
+    padding:10px;
+    border-radius: 10px 10px 10px 10px;
+    
+}
+#cuerpo h3{
+	color:blue;
+}
+#cabecera{
+    background:#286af0;
+    padding:1% 0px;
+    color:white;
+    height:100%;
+    width: 100%;
+    border-radius: 10px 10px 10px 10px;
+}
+#datos {
+	position:relative;
+	left:1%;
+}
+#datos a{
+	color:yellow;
+	
+}
+#cuadro{
+	display:block;
+	margin:10px;
+	
+}
+#foto{
+	float:left;
+	
+    width: 100px;
+}
+#formacion{
+	position:relative;
+}
+#complementaria{
+
+}
+#informatica{
+	position:relative;
+	width:50%;
+}
+#idiomas{
+	position:relative;
+	width:40%
+}
+#otros{
+	
+}
+footer {
+    position: relative;
+    height: 40px; 
+    padding:5px 0px;
+    clear: both;
+    background: #286af0;
+    text-align: right;
+    color: black;
+    border-radius: 10px 10px 10px 10px;
+}
