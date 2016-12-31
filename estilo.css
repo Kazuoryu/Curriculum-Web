@@ -1,15 +1,12 @@
 html{
 	background-color:#C0C0C0;
-	margin-left:20%;
-    margin-right:40%;
+	margin-left:10%;
+    margin-right:10%;
     margin-top:10px;
-    margin_botton:10px;
 }
 #cuerpo {
     height:100%;
-    width: 100%;
-    border: 1% solid blue;
-    
+    width: 100%;    
     color:black;
     background-color:#FFFFFF;
     padding:10px;
